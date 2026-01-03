@@ -1,121 +1,111 @@
-ID,Fakultas,Metode_Pembelajaran,Skor_Kepuasan,Jam_Belajar_Per_Hari,Tingkat_Interaksi,Tingkat_Pemahaman,Kehadiran_Persen,Nilai_Tugas,Nilai_Ujian_Akhir
-1,Teknologi Informasi,Online,7,3.5,2,3,90,78,75
-2,Desain,Offline,9,5.0,5,5,95,88,90
-3,Bisnis,Online,8,2.5,3,4,100,82,80
-4,Ilmu Komunikasi,Offline,8,4.0,5,4,88,85,82
-5,Teknologi Informasi,Offline,7,4.5,4,4,85,80,78
-6,Desain,Online,5,3.0,2,2,92,70,65
-7,Bisnis,Offline,8,3.5,4,4,90,85,88
-8,Ilmu Komunikasi,Online,7,2.0,3,3,95,78,76
-9,Teknologi Informasi,Online,6,4.0,2,3,88,75,72
-10,Desain,Offline,10,6.0,5,5,98,92,94
-11,Bisnis,Online,9,3.0,3,4,100,88,85
-12,Ilmu Komunikasi,Offline,9,4.5,5,5,94,89,90
-13,Teknologi Informasi,Offline,8,5.0,4,4,90,84,86
-14,Desain,Online,4,2.5,1,2,85,65,60
-15,Bisnis,Offline,7,3.5,4,3,88,80,82
-16,Ilmu Komunikasi,Online,6,2.5,2,3,92,76,74
-17,Teknologi Informasi,Online,8,5.5,3,4,96,88,85
-18,Desain,Offline,9,5.5,5,5,96,90,92
-19,Bisnis,Online,7,2.0,2,3,95,78,75
-20,Ilmu Komunikasi,Offline,8,3.5,4,4,90,84,83
-21,Teknologi Informasi,Offline,8,4.0,4,4,92,86,85
-22,Desain,Online,5,3.5,2,3,88,72,68
-23,Bisnis,Offline,9,4.5,5,5,94,90,92
-24,Ilmu Komunikasi,Online,7,3.0,3,3,98,80,78
-25,Teknologi Informasi,Online,7,4.0,3,3,90,82,80
-26,Desain,Offline,8,5.0,4,4,92,85,87
-27,Bisnis,Online,8,2.5,3,4,100,85,84
-28,Ilmu Komunikasi,Offline,7,3.5,4,3,86,80,79
-29,Teknologi Informasi,Offline,9,5.5,5,5,95,92,90
-30,Desain,Online,6,4.0,2,3,90,75,70
-31,Bisnis,Offline,8,4.0,4,4,92,88,86
-32,Ilmu Komunikasi,Online,8,3.5,3,4,96,84,82
-33,Teknologi Informasi,Online,6,3.0,2,3,85,76,74
-34,Desain,Offline,9,6.0,5,5,98,94,95
-35,Bisnis,Online,7,2.0,2,3,94,79,77
-36,Ilmu Komunikasi,Offline,8,4.0,4,4,90,86,84
-37,Teknologi Informasi,Offline,7,4.5,4,3,88,82,80
-38,Desain,Online,5,3.0,2,2,86,68,65
-39,Bisnis,Offline,9,5.0,5,5,96,92,90
-40,Ilmu Komunikasi,Online,7,2.5,3,3,95,80,78
-41,Teknologi Informasi,Online,8,5.0,3,4,92,88,86
-42,Desain,Offline,10,5.5,5,5,97,95,93
-43,Bisnis,Online,6,2.0,2,3,90,75,72
-44,Ilmu Komunikasi,Offline,9,4.5,5,4,93,89,88
-45,Teknologi Informasi,Offline,8,4.0,4,4,91,85,87
-46,Desain,Online,4,2.5,1,2,82,64,60
-47,Bisnis,Offline,7,3.5,4,3,89,82,80
-48,Ilmu Komunikasi,Online,8,3.0,3,4,98,85,83
-49,Teknologi Informasi,Online,7,4.5,3,3,94,84,82
-50,Desain,Offline,9,5.0,5,5,95,91,89
-51,Bisnis,Online,8,2.5,3,4,99,86,84
-52,Ilmu Komunikasi,Offline,7,3.5,4,3,87,81,80
-53,Teknologi Informasi,Offline,9,5.5,5,5,96,93,91
-54,Desain,Online,5,3.5,2,3,89,73,69
-55,Bisnis,Offline,8,4.0,4,4,93,89,87
-56,Ilmu Komunikasi,Online,6,2.5,2,3,91,77,75
-57,Teknologi Informasi,Online,8,5.0,3,4,95,89,87
-58,Desain,Offline,8,4.5,4,4,91,87,86
-59,Bisnis,Online,7,2.0,2,3,96,78,76
-60,Ilmu Komunikasi,Offline,9,5.0,5,5,95,92,90
-61,Teknologi Informasi,Offline,7,4.0,4,3,89,83,81
-62,Desain,Online,6,4.0,2,3,92,76,72
-63,Bisnis,Offline,9,4.5,5,5,97,94,93
-64,Ilmu Komunikasi,Online,7,3.0,3,3,98,82,80
-65,Teknologi Informasi,Online,6,3.5,2,3,86,74,70
-66,Desain,Offline,10,6.0,5,5,99,96,95
-67,Bisnis,Online,8,3.0,3,4,100,87,85
-68,Ilmu Komunikasi,Offline,8,4.0,4,4,92,88,86
-69,Teknologi Informasi,Offline,8,4.5,4,4,93,85,87
-70,Desain,Online,5,3.0,2,2,87,69,66
-71,Bisnis,Offline,7,3.5,4,3,90,81,79
-72,Ilmu Komunikasi,Online,8,3.5,3,4,97,86,84
-73,Teknologi Informasi,Online,7,4.5,3,3,93,83,81
-74,Desain,Offline,9,5.5,5,5,96,92,90
-75,Bisnis,Online,9,3.0,3,4,98,90,88
-76,Ilmu Komunikasi,Offline,7,3.5,4,3,88,80,79
-77,Teknologi Informasi,Offline,9,5.0,5,5,94,91,92
-78,Desain,Online,4,2.0,1,2,83,62,58
-79,Bisnis,Offline,8,4.0,4,4,91,87,85
-80,Ilmu Komunikasi,Online,6,2.5,2,3,90,75,73
-81,Teknologi Informasi,Online,8,5.0,3,4,94,88,86
-82,Desain,Offline,8,4.5,4,4,92,86,84
-83,Bisnis,Online,7,2.5,2,3,95,79,77
-84,Ilmu Komunikasi,Offline,9,5.0,5,5,96,93,91
-85,Teknologi Informasi,Offline,7,4.0,4,3,87,82,80
-86,Desain,Online,5,3.0,2,3,89,71,67
-87,Bisnis,Offline,9,5.0,5,5,98,95,94
-88,Ilmu Komunikasi,Online,7,3.0,3,3,96,81,79
-89,Teknologi Informasi,Online,6,3.5,2,2,85,73,70
-90,Desain,Offline,10,6.0,5,5,99,97,96
-91,Bisnis,Online,8,3.0,3,4,99,88,86
-92,Ilmu Komunikasi,Offline,8,4.0,4,4,91,87,85
-93,Teknologi Informasi,Offline,8,4.5,4,4,92,86,88
-94,Desain,Online,5,3.5,2,2,88,70,68
-95,Bisnis,Offline,7,3.5,4,3,89,83,81
-96,Ilmu Komunikasi,Online,8,3.5,3,4,97,85,83
-97,Teknologi Informasi,Online,7,4.5,3,3,92,84,82
-98,Desain,Offline,9,5.5,5,5,95,93,91
-99,Bisnis,Online,9,3.5,3,5,98,91,89
-100,Ilmu Komunikasi,Offline,7,3.0,4,3,86,79,78
-101,Teknologi Informasi,Offline,9,5.0,5,5,94,92,93
-102,Desain,Online,4,2.5,1,2,84,65,60
-103,Bisnis,Offline,8,4.0,4,4,92,88,87
-104,Ilmu Komunikasi,Online,6,2.5,2,3,93,76,74
-105,Teknologi Informasi,Online,8,5.5,3,4,96,89,87
-106,Desain,Offline,8,4.5,4,4,90,85,83
-107,Bisnis,Online,7,2.0,2,3,94,77,75
-108,Ilmu Komunikasi,Offline,9,5.0,5,5,97,94,92
-109,Teknologi Informasi,Offline,7,4.0,4,3,88,81,80
-110,Desain,Online,5,3.5,2,3,90,74,70
-111,Bisnis,Offline,9,4.5,5,5,96,93,91
-112,Ilmu Komunikasi,Online,7,3.0,3,3,98,82,80
-113,Teknologi Informasi,Online,6,3.0,2,3,87,75,72
-114,Desain,Offline,10,6.0,5,5,100,98,97
-115,Bisnis,Online,8,3.0,3,4,99,89,87
-116,Ilmu Komunikasi,Offline,8,4.0,4,4,93,89,88
-117,Teknologi Informasi,Offline,8,5.0,4,4,94,87,89
-118,Desain,Online,5,3.0,2,2,89,72,69
-119,Bisnis,Offline,7,3.5,4,3,91,84,82
-120,Ilmu Komunikasi,Online,8,3.5,3,4,97,87,85
+Nama_Mahasiswa,Fakultas,Metode_Pembelajaran,Skor_Kepuasan_1_10,Jam_Belajar_Per_Hari,Tingkat_Interaksi_1_5,Tingkat_Pemahaman_1_5,Tingkat_Kehadiran_Persen,Nilai_Tugas,Nilai_Ujian_Akhir
+Andi Saputra,Teknologi Informasi,Offline,8,6,5,4,90,85,88
+Budi Santoso,Bisnis,Online,7,4,3,3,95,78,75
+Citra Lestari,Desain,Offline,9,7,5,5,88,90,92
+Dewi Anggraeni,Ilmu Komunikasi,Online,6,3,2,3,98,80,76
+Eko Pratama,Teknologi Informasi,Online,5,5,2,2,92,75,70
+Fajar Nugraha,Bisnis,Offline,8,5,4,4,85,82,85
+Gita Permata,Desain,Online,7,6,3,4,96,88,84
+Hendra Gunawan,Ilmu Komunikasi,Offline,9,6,5,5,92,85,89
+Indah Sari,Teknologi Informasi,Offline,7,5,4,3,89,78,80
+Joko Susilo,Bisnis,Online,6,3,2,2,94,70,72
+Kartika Dewi,Desain,Offline,8,8,5,5,90,92,94
+Lukman Hakim,Ilmu Komunikasi,Online,7,4,3,3,97,81,79
+Maya Agustina,Teknologi Informasi,Online,6,5,2,3,91,76,74
+Nanda Putra,Bisnis,Offline,9,6,5,5,93,88,90
+Oki Setiawan,Desain,Online,5,4,2,2,88,72,68
+Putri Maharani,Ilmu Komunikasi,Offline,8,5,4,4,91,84,86
+Qori Handayani,Teknologi Informasi,Offline,8,7,4,4,87,85,88
+Rian Hidayat,Bisnis,Online,7,3,3,3,99,79,77
+Siska Wulandari,Desain,Offline,9,8,5,5,94,95,96
+Tono Suherman,Ilmu Komunikasi,Online,6,4,2,3,93,74,72
+Utami Rahayu,Teknologi Informasi,Online,7,5,3,3,95,80,78
+Vina Melati,Bisnis,Offline,8,6,5,4,89,86,88
+Wahyu Kurniawan,Desain,Online,6,5,2,3,90,78,75
+Xena Putri,Ilmu Komunikasi,Offline,9,7,5,5,95,89,91
+Yoga Prasetyo,Teknologi Informasi,Offline,7,5,4,3,86,77,79
+Zara Amelia,Bisnis,Online,8,4,3,4,98,85,83
+Aditya Warman,Desain,Offline,8,7,5,4,91,88,90
+Bella Safitri,Ilmu Komunikasi,Online,7,3,2,3,94,76,74
+Candra Wijaya,Teknologi Informasi,Online,6,5,3,3,92,79,76
+Dimas Anggara,Bisnis,Offline,9,6,5,5,90,91,93
+Elisa Kusuma,Desain,Online,7,6,3,4,97,84,82
+Ferry Irawan,Ilmu Komunikasi,Offline,8,5,4,4,88,83,85
+Galih Firmansyah,Teknologi Informasi,Offline,7,6,4,3,89,80,82
+Hani Puspita,Bisnis,Online,6,3,2,2,95,72,70
+Irfan Maulana,Desain,Offline,9,8,5,5,93,94,96
+Jessica Tan,Ilmu Komunikasi,Online,8,4,3,4,99,86,84
+Kevin Sanjaya,Teknologi Informasi,Online,5,4,2,2,90,70,68
+Larasati,Bisnis,Offline,8,5,4,4,91,85,87
+Miko Ardiansyah,Desain,Online,7,5,3,3,96,81,79
+Nia Ramadhani,Ilmu Komunikasi,Offline,9,7,5,5,94,90,92
+Oscar Pratama,Teknologi Informasi,Offline,6,5,3,3,85,75,77
+Prita Laura,Bisnis,Online,7,4,2,3,98,78,76
+Reza Rahadian,Desain,Offline,9,8,5,5,92,93,95
+Sherly Marlina,Ilmu Komunikasi,Online,6,3,2,2,91,73,71
+Tommy Kurniawan,Teknologi Informasi,Online,7,5,3,3,94,82,80
+Umar Bakri,Bisnis,Offline,8,6,4,4,89,87,89
+Vivi Alatas,Desain,Online,8,6,3,4,97,85,83
+Wawan Setiawan,Ilmu Komunikasi,Offline,7,5,4,3,90,81,83
+Yulia Rachmawati,Teknologi Informasi,Offline,8,7,5,4,88,86,89
+Zainal Abidin,Bisnis,Online,6,4,2,3,93,75,73
+Agus Salim,Desain,Offline,9,8,5,5,95,92,94
+Bunga Citra,Ilmu Komunikasi,Online,7,3,3,3,98,79,77
+Cecep Supriyadi,Teknologi Informasi,Online,5,5,2,2,89,71,69
+Dinda Hauw,Bisnis,Offline,8,6,5,4,91,88,90
+Erik Tohir,Desain,Online,6,5,2,3,92,77,75
+Fitri Tropica,Ilmu Komunikasi,Offline,9,7,5,5,94,89,91
+Gilang Dirga,Teknologi Informasi,Offline,7,6,4,3,87,79,81
+Hesti Purwadinata,Bisnis,Online,7,4,3,3,96,80,78
+Imam Darto,Desain,Offline,8,7,5,4,90,87,89
+Jihan Fahira,Ilmu Komunikasi,Online,6,3,2,2,93,74,72
+Kiki Saputri,Teknologi Informasi,Online,8,6,3,4,97,85,83
+Luna Maya,Bisnis,Offline,9,6,5,5,92,91,93
+Marcel Chandrawinata,Desain,Online,7,5,3,3,95,82,80
+Nadine Chandrawinata,Ilmu Komunikasi,Offline,8,6,4,4,89,86,88
+Olla Ramlan,Teknologi Informasi,Offline,7,5,4,3,88,78,80
+Parto Patrio,Bisnis,Online,5,3,2,2,90,70,68
+Qory Sandioriva,Desain,Offline,9,8,5,5,94,95,97
+Raffi Ahmad,Ilmu Komunikasi,Online,8,4,3,4,99,87,85
+Sandra Dewi,Teknologi Informasi,Online,6,5,2,3,91,76,74
+Tora Sudiro,Bisnis,Offline,8,6,5,4,90,89,91
+Uya Kuya,Desain,Online,7,6,3,4,96,83,81
+Vicky Prasetyo,Ilmu Komunikasi,Offline,6,5,3,3,85,75,77
+Wulan Guritno,Teknologi Informasi,Offline,9,7,5,5,93,90,92
+Yuni Shara,Bisnis,Online,7,4,2,3,98,78,76
+Zaskia Adya Mecca,Desain,Offline,8,7,4,4,91,86,88
+Ahmad Dhani,Ilmu Komunikasi,Online,6,3,2,2,92,73,71
+Baim Wong,Teknologi Informasi,Online,7,5,3,3,94,81,79
+Cinta Laura,Bisnis,Offline,9,7,5,5,95,93,95
+Deddy Corbuzier,Desain,Online,8,6,3,4,97,88,86
+Enzy Storia,Ilmu Komunikasi,Offline,7,5,4,3,89,82,84
+Fadil Jaidi,Teknologi Informasi,Offline,6,4,3,3,86,74,76
+Gading Marten,Bisnis,Online,7,4,3,3,96,80,78
+Habibie,Desain,Offline,9,9,5,5,94,96,98
+Iis Dahlia,Ilmu Komunikasi,Online,5,3,2,2,90,69,67
+Judika,Teknologi Informasi,Online,8,6,3,4,98,87,85
+Krisdayanti,Bisnis,Offline,8,6,5,4,91,88,90
+Lesti Kejora,Desain,Online,7,5,3,3,95,81,79
+Melly Goeslaw,Ilmu Komunikasi,Offline,9,7,5,5,93,90,92
+Nicholas Saputra,Teknologi Informasi,Offline,8,7,5,4,90,89,91
+Okky Lukman,Bisnis,Online,6,4,2,3,94,76,74
+Prilly Latuconsina,Desain,Offline,9,8,5,5,92,94,96
+Raditya Dika,Ilmu Komunikasi,Online,8,5,3,4,99,88,86
+Sule,Teknologi Informasi,Online,5,3,2,2,88,70,68
+Tulus,Bisnis,Offline,9,7,5,5,94,92,94
+Ucok Baba,Desain,Online,6,4,2,2,91,75,73
+Via Vallen,Ilmu Komunikasi,Offline,7,5,4,3,87,80,82
+Wendy Cagur,Teknologi Informasi,Offline,8,6,5,4,89,85,87
+Xaverius,Bisnis,Online,7,3,3,3,97,79,77
+Yayan Ruhian,Desain,Offline,9,8,5,5,93,93,95
+Zulfikar,Ilmu Komunikasi,Online,6,4,2,3,92,74,72
+Ari Lasso,Teknologi Informasi,Offline,7,5,4,3,88,78,80
+Bebi Romeo,Bisnis,Online,8,5,3,4,98,86,84
+Choky Sitohang,Desain,Offline,8,7,5,4,91,89,91
+Desta,Ilmu Komunikasi,Online,5,3,2,2,89,71,69
+Ernest Prakasa,Teknologi Informasi,Online,9,7,4,5,96,92,94
+Feny Rose,Bisnis,Offline,8,6,5,4,90,87,89
+Ge Pamungkas,Desain,Online,7,5,3,3,95,83,81
+Hanung Bramantyo,Ilmu Komunikasi,Offline,9,8,5,5,94,91,93
+Iwan Fals,Teknologi Informasi,Offline,8,7,5,4,90,88,90
+Joe Taslim,Bisnis,Online,7,4,3,3,97,80,78
